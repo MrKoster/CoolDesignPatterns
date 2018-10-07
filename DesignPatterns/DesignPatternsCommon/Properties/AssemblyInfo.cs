@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SingletonSyncDesignPattern")]
+[assembly: AssemblyTitle("DesignPatternsCommon")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SingletonSyncDesignPattern")]
+[assembly: AssemblyProduct("DesignPatternsCommon")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ab643a6-dcba-499c-84fd-8b3bebf9cd10")]
+[assembly: Guid("1293e6b6-e74f-44cd-8643-480d53cac95f")]
 
 // Version information for an assembly consists of the following four values:
 //

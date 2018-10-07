@@ -1,11 +1,14 @@
-﻿using DesignPatternsCommon;
-using System;
+﻿using System;
 
 namespace BridgeDesignPattern
 {
-    public class BridgeExample : IExample
+    public class BridgeExample
     {
-        public void RunExample()
+        /// <summary>
+        /// Example use of our bridge design pattern.
+        /// Press F5 to run.
+        /// </summary>
+        public static void Main(string[] args)
         {
             // Creating package senders
             IPackageSender dhlSender = new DhlSender();
