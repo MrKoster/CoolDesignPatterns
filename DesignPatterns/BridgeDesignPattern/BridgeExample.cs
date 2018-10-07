@@ -37,8 +37,6 @@ namespace BridgeDesignPattern
             palet.SendPackage();
             palet.packageSender = fedexSender;
             palet.SendPackage();
-
-            Console.ReadLine();
         }
     }
 }

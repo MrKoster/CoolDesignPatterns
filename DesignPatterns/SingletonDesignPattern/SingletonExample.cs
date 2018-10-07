@@ -17,8 +17,6 @@ namespace SingletonSyncDesignPattern
 
             var threadUnsafeSingleton = ThreadUnsafeSingleton.Instance;
             var threadSafeSingleton = ThreadSafeSingleton.Instance;
-
-            Console.ReadLine();
         }
     }
 }
