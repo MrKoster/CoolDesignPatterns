@@ -12,6 +12,6 @@ Also feel free to point out my mistakes, errors ect.
 Current list of design patterns in the repo:
 - Bridge
 - Singleton (thread unsafe and thread safe)
-... (next ones comming soon)
+- next ones comming soon...
 
 Enjoy
