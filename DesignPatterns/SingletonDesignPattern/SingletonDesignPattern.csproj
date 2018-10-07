@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7AB643A6-DCBA-499C-84FD-8B3BEBF9CD10}</ProjectGuid>
+    <ProjectGuid>{39E3721E-CD7E-4701-BC63-1102FEAC4F9E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingletonSyncDesignPattern</RootNamespace>
-    <AssemblyName>SingletonSyncDesignPattern</AssemblyName>
+    <RootNamespace>SingletonDesignPattern</RootNamespace>
+    <AssemblyName>SingletonDesignPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
