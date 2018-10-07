@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BridgeDesignPattern
 {
-    public class Bridge
+    public class BridgeExample
     {
         /// <summary>
         /// Example use of our bridge design pattern.
@@ -46,6 +46,6 @@ namespace BridgeDesignPattern
             palet.SendPackage();
 
             Console.ReadLine();
-        } 
+        }
     }
 }
