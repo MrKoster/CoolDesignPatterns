@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AdapterDesignPattern;
+using DesignPatternsCommon;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +14,8 @@ namespace DesignPatternsManager
         {
             "Bridge",
             "Singleton (thread unsafe)",
-            "Singleton (thread safe)", 
+            "Singleton (thread safe)",
+            "Adapter",
             "(others comming soon...)"
         };
 
